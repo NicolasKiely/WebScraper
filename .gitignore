@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+*.swp
+*.swo
+migrations/
+*.sqlite3
+manage.py
